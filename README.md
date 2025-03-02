@@ -332,6 +332,19 @@ Returns a response containing the job details
 
 </details>
 
+### Dependencies
+
+<details>
+<summary>Click to view</summary>
+<br>
+
+- npm install react-router-dom@5
+- npm install react-loader-spinner@4.0.0 --save
+- npm install react-icons
+- npm install js-cookie --save
+
+</details>
+
 ### Important Note
 
 <details>
